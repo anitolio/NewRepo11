@@ -31,4 +31,3 @@ public:
 	const Node* find(int value);
 	void print();
 };
-	
